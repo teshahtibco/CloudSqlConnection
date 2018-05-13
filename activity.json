@@ -2,7 +2,7 @@
   "name": "CloudSqlConnection",
   "version": "0.0.1",
   "type": "flogo:activity",
-  "ref": "github.com/teshahtibco/cloudsqlsample",
+  "ref": "github.com/teshahtibco/CloudSqlConnection",
   "description": "Connect to Google Cloud Sql Instance",
   "author": "Tejas Shah",
   "inputs":[
